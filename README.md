@@ -60,4 +60,11 @@ The ISMS design for SMS AB includes:
 
 ## **Acknowledgments**  
 Special thanks to my group members and university instructors for their collaboration and guidance throughout the project.
+
+## Pictures from the main report have been added here for clarity
+<img width="232" alt="Capture4" src="https://github.com/user-attachments/assets/ab800c1f-baca-474d-9353-f59fef6f2b95" />
+<img width="243" alt="Capture2" src="https://github.com/user-attachments/assets/1b6a7cd6-d900-4094-8121-53f0dd5a9f39" />
+<img width="174" alt="Capture1" src="https://github.com/user-attachments/assets/f6a97c93-3aa4-4253-a886-ab713071b33c" />
+<img width="183" alt="Capture" src="https://github.com/user-attachments/assets/d3d06538-f9ad-4603-843f-99c0ce7c096e" />
+
  
